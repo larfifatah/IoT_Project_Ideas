@@ -2,18 +2,18 @@
 
 ## Nom du groupe : ACAF
  Membres du groupe:
-* BEN YOUSSEF Achraf - achrafbya.by@gmail.com - https://github.com/BYAchraf
-* FREDJ Mohamed Chahine - m.fredj23@gmail.com - github.com/chahine202
-* LEBSIR Ahlam - lebsir.ahlem@yahoo.com - github.com/LEBSIRAHLAM
-* LARFI Fatah - fatahlarfi1991@gmail.com - github.com/larfifatah
+* BEN YOUSSEF Achraf -- achrafbya.by@gmail.com -- [GitHub BEN YOUSSEF Achraf](https://github.com/BYAchraf)
+* FREDJ Mohamed Chahine -- m.fredj23@gmail.com -- [GitHub FRADJ Mohamed Chaine](https://github.com/chahine202)
+* LEBSIR Ahlam -- lebsir.ahlem@yahoo.com -- [GitHub LEBSIR Ahlem](https://github.com/LEBSIRAHLAM)
+* LARFI Fatah -- fatahlarfi1991@gmail.com -- [GitHub LARFI Fatah](https://github.com/larfifatah)
 
 ## Projets
 
-### Gant de télécommande retroprojecteur
-**Description**
-Ces gant sont conçu pour vous aider a réussir vos présentations. Ses commandes au diaporama vous permettent de naviger dans votre présentation en toute confiance. Bouton au simple touche. Sa conception offre une prise en main confortable avec un pointeur lazer rouge facile à voir sur la plus part des fonds, vous permettant ainsi de vous déplacer dans la salle pour allé à la rencontre de votre public. Déficile à perdre pendant la présentation.
+### Gant de télécommande rétroprojecteur
+#### Description
+Ces gants sont conçus pour vous aider à réussir vos présentations. Ses commandes au diaporama vous permettent de naviguer dans votre présentation en toute confiance. Bouton aux simples touches. Sa conception offre une prise en main confortable avec un pointeur lazer rouge facile à voir sur la plupart des fonds, vous permettant ainsi de vous déplacer dans la salle pour aller à la rencontre de votre public. Difficile à perdre pendant la présentation.
 
-**Liste des composants**
+####Liste des composants
 * 2 x ESP32
 * Files éléctroniques
 * Gant 
@@ -22,10 +22,10 @@ Ces gant sont conçu pour vous aider a réussir vos présentations. Ses commande
 * 2 x Breadboard
 
 ### Portefeuille connecté
-**Description**
-Un portefeuille connecté qui nous permet de le géocaliser en cas de pert, détecte le nombres des cartes présentent dans le protefeuille, en cas de manque d'une ou plusieur carte, il notifie l'utilisateur à partir d'une application Android dédié à ce portefeuille. Cette application permet à l'utilisateur de gérer son budget manuellement.
+####Description
+Un portefeuille connecté qui nous permet de le localiser en cas de perd, détecte le nombre des cartes présentes dans le portefeuille, en cas de manque d'une ou plusieurs carte, il notifie l'utilisateur à partir d'une application Android dédié à ce portefeuille. Cette application permet à l'utilisateur de gérer son budget manuellement.
 
-**Liste des composants**
+####Liste des composants
 * ESP32
 * Files éléctroniques
 * Des plaques conducteurs 20x20 mm ( capteurs )
